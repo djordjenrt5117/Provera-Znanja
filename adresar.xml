@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Osobe xmlns="http://www.w3schools.com"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+         xs:schemaLocation="http://www.w3schools.com adresar.xsd">
+    <Osoba>
+        <PunoIme>
+            <Ime>asd</Ime>
+            <SrednjeIme>asd</SrednjeIme>
+            <Prezime>asd</Prezime>
+        </PunoIme>
+
+        <DatumRodjenja>
+            <Dan>11</Dan>
+            <Mesec>22</Mesec>
+            <Godina>2003</Godina>
+        </DatumRodjenja>
+
+        <Adresa tip="privremena">asdasd</Adresa>
+
+        <Email tip="privatni">dasdasd</Email>
+    </Osoba>
+</Osobe>
