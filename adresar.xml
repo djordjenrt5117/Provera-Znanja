@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Osobe SYSTEM "adresar.dtd">
 <Osobe xmlns="http://www.w3schools.com"
          xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
          xs:schemaLocation="http://www.w3schools.com adresar.xsd">
